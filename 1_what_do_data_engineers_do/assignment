@@ -1,0 +1,7 @@
+Assignment: Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements?
+1. Get a sponsor / a Business DRI who will say the need and support the project. 
+2. Have a high level discussion of what is needed - example : what does business need to answer first?
+3. Try to map exisiting analystics done in the company - are we starting fresh or was there already some analytics but it failed / is too slow / needs improvement.
+4. In an ongoing basis try to understand business processes / the systems involved and the stakeholders pain points.
+5. Then deep dive on requirements - clarify big asks first such as 1. do they need real time data? 2. what level of accuracy is good enough?
+6. Start with quick and easy wins - always communicate and show value to stakeholders
